@@ -68,4 +68,5 @@ function solve2(input) {
   }
   console.log(blocks.reduce((acc, n, i) => acc + i * Math.max(0, n)));
 }
+
 solve2(input);
