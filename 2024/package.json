@@ -1,0 +1,16 @@
+{
+  "name": "2024",
+  "version": "1.0.0",
+  "main": "day1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "math.js": "^1.1.46",
+    "mathjs": "^14.0.1"
+  }
+}
